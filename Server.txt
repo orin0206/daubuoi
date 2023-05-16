@@ -1,1 +1,1 @@
-Band:fw.servegame.com:14458:0,0,0
+Ban nhạc:fw.servegame.com:14458:0,0,0
