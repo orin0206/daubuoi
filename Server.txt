@@ -1,1 +1,1 @@
-NroRaze:103.14.49.8:14445:0,0,0
+Band:fw.servegame.com:14458:0,0,0
