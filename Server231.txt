@@ -1,2 +1,2 @@
-Hiệu ăn cứt:nroserver.d
+nro:nroserver.ddns.net:14447:0,0,0
 
