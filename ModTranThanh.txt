@@ -1,1 +1,31 @@
-Rose:103.90.224.45:14445:0,0,0
+** Hướng Dẫn Sử Dụng Khá Ngắn Gọn =))
+=> Vui lòng đọc kĩ hướng dẫn sử dụng trước khi dùng.
+=> Mod được làm bởi Trần Thành. Chúc các bạn chơi game vui vẻ.
+=> Báo lỗi liên hệ: https://www.facebook.com/thanh020605 hoặc zalo 0395904047.
+=> Nếu thích donate có thể donate qua MoMo/Mbbank 0395904047 nhé =)).
+**
+** Lệnh Chat:
++> td: chỉnh tốc độ game.
++> s: chỉnh tốc độ chạy.
++> nrd_X_Y: set map và khu vào nrd (X là map Y là khu).
+**
+** Phím Tắt:
++> A: tự động đánh.
++> B: tự động tele đấm boss.
++> C: sử dụng capsule bay.
++> D: đóng băng skill.
++> E: auto hồi sinh.
++> F: sử dụng bông tai nhanh. để
++> G: để giao dịch.
++> H: đổi khu nhanh.
++> I: focuss khi gặp boss.
++> J: dịch map trái.
++> K: dịch map giữa.
++> L: dịch map phải.
++> M: mở menu chức năng.
++> N: auto nhặt vật phẩm.
++> P: bật tắt quản lí tài khoản.
++> Q: để dừng các chức năng như đập đồ, mở nội tại...
++> T: tàn sát quái.
++> U: chạy đi hồi skill.
++> X: mở menu xmap.
