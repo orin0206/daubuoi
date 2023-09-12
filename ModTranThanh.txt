@@ -1,13 +1,12 @@
-** Hướng Dẫn Sử Dụng Khá Ngắn Gọn =))
-=> Vui lòng đọc kĩ hướng dẫn sử dụng trước khi dùng.
-=> Mod được làm bởi Trần Thành. Chúc các bạn chơi game vui vẻ.
-=> Báo lỗi liên hệ: https://www.facebook.com/thanh020605 hoặc zalo 0395904047.
-=> Nếu thích donate có thể donate qua MoMo/Mbbank 0395904047 nhé =)).
++> Vui lòng đọc kĩ hướng dẫn sử dụng trước khi dùng.
++> Mod được làm bởi Trần Thành. Chúc các bạn chơi game vui vẻ.
++> Báo lỗi liên hệ: https://www.facebook.com/thanh020605 hoặc zalo 0395904047.
++> Nếu thích donate có thể donate qua MoMo/Mbbank 0395904047 nhé =)).
 **
 ** Lệnh Chat:
 +> td: chỉnh tốc độ game.
 +> s: chỉnh tốc độ chạy.
-+> nrd_X_Y: set map và khu vào nrd (X là map Y là khu).
++> nrd_X_Y: set map và khu vào nrd (X là map Y là khu)
 **
 ** Phím Tắt:
 +> A: tự động đánh.
